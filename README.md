@@ -4,7 +4,7 @@ Este é um projeto simples de estudo de automação E2E em Cypress onde é aplic
 ## Page Objects 
 É um padrão de projeto que organiza os testes com base nas ações e elementos disponíveis na página 
 
-#Estrutura do Projeto 
+###Estrutura do Projeto 
 
 ├── cypress/
 │   └── e2e                                          # Pasta padrão do cypress destinada aos testes de ponta a ponta
